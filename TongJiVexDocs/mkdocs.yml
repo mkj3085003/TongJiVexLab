@@ -19,7 +19,7 @@ theme:
     - navigation.tabs
   palette:
     scheme: default
-    primary: 'indigo'
+    primary: 'black'
     accent: 'indigo'
   font:
     text: 'Roboto'
@@ -46,12 +46,10 @@ extra:
 #  - 'UA-XXXXXXXX-X'
 #  - 'auto'
 #extra_css:
-#  - 'static/css/base.css'
-#  - 'static/css/bgc.css'
+ # - 'static/css/password.css'
 extra_javascript:
   - 'static/js/jquery-3.1.1.min.js'
-  #- 'static/js/lite.js'
-  #- 'static/js/lbl.js'
+
 # Extensions
 markdown_extensions:
   - admonition
@@ -88,6 +86,7 @@ markdown_extensions:
       custom_checkbox: true
   - pymdownx.tilde
   - pymdownx.tabbed
+
 
 nav:
   - "Welcome to TongJiVexLab!": index.md
