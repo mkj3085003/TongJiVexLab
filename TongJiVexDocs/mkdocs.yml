@@ -1,0 +1,103 @@
+# Project information
+site_name: 'TongJiVexLab'
+site_description: '同济大学Vex实验室资料库'
+site_author: 'makaijing'
+site_url: 'https://TongJiVexLab/'
+
+# Repository
+repo_name: '仓库'
+repo_url: 'https://github.com/mkj3085003/TongJiVexLab'
+
+# Copyright
+copyright: '2023 TongJiVexLab'
+
+# Configuration
+theme:
+  name: 'material'
+  language: 'zh'
+  features:
+    - navigation.tabs
+  palette:
+    scheme: default
+    primary: 'indigo'
+    accent: 'indigo'
+  font:
+    text: 'Roboto'
+    code: 'Roboto Mono'
+  logo: 'static/imgs/TongJiVex.ico'
+
+plugins:
+  - search
+  - minify:
+      minify_html: true
+
+# Customization
+extra:
+  utteranc:
+    repo: ansible
+    issueTerm: pathname
+    theme: github-light
+  social:
+    - icon: fontawesome/brands/github-alt
+      link: 'https://github.com/mkj3085003/TongJiVexLab'
+
+# Google Analytics
+#google_analytics:
+#  - 'UA-XXXXXXXX-X'
+#  - 'auto'
+#extra_css:
+#  - 'static/css/base.css'
+#  - 'static/css/bgc.css'
+extra_javascript:
+  - 'static/js/jquery-3.1.1.min.js'
+  #- 'static/js/lite.js'
+  #- 'static/js/lbl.js'
+# Extensions
+markdown_extensions:
+  - admonition
+  - abbr
+  - attr_list
+  - def_list
+  - footnotes
+  - meta
+  - toc:
+      permalink: true
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.betterem:
+      smart_enable: all
+  - pymdownx.caret
+  - pymdownx.critic
+  - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:pymdownx.emoji.twemoji
+      emoji_generator: !!python/name:pymdownx.emoji.to_svg
+  - pymdownx.highlight:
+  - pymdownx.inlinehilite
+  - pymdownx.keys
+  - pymdownx.magiclink:
+      repo_url_shorthand: true
+      user: caimz
+      repo: ansible
+  - pymdownx.mark
+  - pymdownx.smartsymbols
+  - pymdownx.snippets:
+      check_paths: true
+  - pymdownx.superfences
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - pymdownx.tilde
+  - pymdownx.tabbed
+
+nav:
+  - "Welcome to TongJiVexLab!": index.md
+  - Build:
+    - 1. 底盘: Contents/src/Build/1.base.md
+  - Code:
+      - 1.手动代码-底盘测试: Contents/src/Code/1.BaseCode.md
+  - Analysis:
+      - 1. 技能赛战术: Contents/src/Analysis/1.zhanshu.md
+  - Competition:
+      - 1. 上交Vex精英赛: Contents/src/Competition/1.SJCompetiton.md
+  - titbits:
+      - 1. 2023年3月: Contents/src/titbits/1.202303.md

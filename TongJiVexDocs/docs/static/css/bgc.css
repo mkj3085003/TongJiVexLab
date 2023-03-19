@@ -1,0 +1,12 @@
+body{
+   background:url(bgc/notebook.jpg)  no-repeat center center;
+   background-size:100% 100%;
+   background-attachment: fixed;
+   background-color:transparent;
+}
+.md-main__inner {
+   background-color: rgba(245,255,250, 0.8);
+}
+/*.md-sidebar--primary{
+   background-color: rgba(179,179,179,0.8);
+}*/
