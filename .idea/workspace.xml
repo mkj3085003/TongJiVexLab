@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="de3c2fef-d023-4caa-8ef9-c9697377c304" name="变更" comment="">
+      <change beforePath="$PROJECT_DIR$/.nojekyll" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/404.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contents/src/Analysis/1.zhanshu/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contents/src/Build/1.base/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contents/src/Code/1.BaseCode/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contents/src/Competition/1.SJCompetiton/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Contents/src/titbits/1.202303/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/images/favicon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/bundle.efa0ade1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/bundle.efa0ade1.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.ar.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.da.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.de.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.du.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.es.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.fi.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.fr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.hi.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.hu.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.it.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.ja.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.jp.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.ko.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.multi.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.nl.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.no.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.pt.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.ro.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.ru.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.stemmer.support.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.sv.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.ta.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.th.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.tr.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.vi.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/min/lunr.zh.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/tinyseg.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/lunr/wordcut.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/workers/search.208ed371.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/javascripts/workers/search.208ed371.min.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/stylesheets/main.c4a75a56.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/stylesheets/main.c4a75a56.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/stylesheets/palette.a0c5b2b5.min.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/stylesheets/palette.a0c5b2b5.min.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/search/search_index.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sitemap.xml.gz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/base.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bgc.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bgc.css.bk" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bgc/01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bgc/02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bgc/MonkeyKing.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bgc/bgc.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bgc/notebook.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/bgc/notebook.jpg.cmz" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/flower.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/css/password.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/imgs/TongJiVex.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/jquery-3.1.1.min.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/static/js/password.js" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2NLqayOeQ4inVLZl1pw5b9zmE91" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="de3c2fef-d023-4caa-8ef9-c9697377c304" name="变更" comment="" />
+      <created>1679453780313</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1679453780313</updated>
+      <workItem from="1679453782298" duration="374000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
